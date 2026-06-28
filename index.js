@@ -1,14 +1,14 @@
-let input = document.getElementById('inputNumber');
-let convertButton = document.getElementById('convertButton');
-let length = document.getElementById('lengthResult');
-let volume = document.getElementById('volumeResult');
-let mass = document.getElementById('massResult');
+const input = document.getElementById('inputNumber');
+const convertButton = document.getElementById('convertButton');
+const length = document.getElementById('lengthResult');
+const volume = document.getElementById('volumeResult');
+const mass = document.getElementById('massResult');
 
 convertButton.addEventListener('click', function() {
-    let number = parseFloat(inputNumber.value);
-    let length = number * 3.28084;
-    let volume = number * 0.264172;
-    let mass = number * 2.20462;
+    const number = parseFloat(inputNumber.value);
+    const length = number * 3.28084;
+    const volume = number * 0.264172;
+    const mass = number * 2.20462;
     let lengthReverse = number * 0.3048;
     let volumeReverse = number * 3.7854;
     let massReverse = number * 0.4536;
