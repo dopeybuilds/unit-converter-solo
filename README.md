@@ -16,14 +16,14 @@ Enter any number and click **Convert** to instantly see conversions for:
 
 ## Skills Showcased
 
-### DOM Manipulation
-### Event Handling
-### Data Type Handling
-### Mathematical Logic
-### String Interpolation (Template Literals)
-### Number Formatting
-### JavaScript Best Practices
-### UI/UX Layout
+- DOM Manipulation
+- Event Handling
+- Data Type Handling
+- Mathematical Logic
+- String Interpolation (Template Literals)
+- Number Formatting
+- JavaScript Best Practices
+- UI/UX Layout
 
 ## Tech Stack
 
