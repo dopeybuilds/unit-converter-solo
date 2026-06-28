@@ -2,6 +2,8 @@
 
 A browser-based tool that converts between metric and imperial units across three categories: length, volume, and mass.
 
+![Metric/Imperial Unit Converter Preview](./screenshot.png)
+
 ---
 
 ## What It Does
